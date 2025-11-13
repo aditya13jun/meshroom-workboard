@@ -5,9 +5,6 @@ import { ConvexClientProvider } from "@/providers/convex-client-provider";
 import { Toaster } from "@/components/ui/sonner";
 import { ModalProvider } from "@/providers/modal-provider";
 
-import { LiveblocksProvider } from "@liveblocks/react";
-import { client } from "@/lib/liveblocks";
-
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
