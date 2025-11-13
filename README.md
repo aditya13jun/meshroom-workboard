@@ -69,8 +69,7 @@ npm install
 
 ```bash
 npm run dev
-# or
-yarn dev
+npx convex dev
 ```
 App will be available at `http://localhost:3000`
 
